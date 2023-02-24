@@ -19,7 +19,7 @@
 
 # Dependencias necessarias para a visualização do projeto:
 
-    para instalar é necessario entrar no seu terminal e utilizar o comando "npm install" + o nome de cada dependencia sitada abaixo.
+    para instalar é necessario entrar no seu terminal e utilizar o comando "npm install" + o nome de cada dependencia citada abaixo.
 
     bcryptjs -> Necessaria para criptografar senhas e afins.
     connect-flash -> Utilizado para mandar mensagens ao usuario.
