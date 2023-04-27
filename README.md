@@ -3,7 +3,7 @@
 
     O projeto consiste no controle financeiro do usuario, nele é possivel acrescentar valores de receita ou retirar para despesas. Além de mostrar todo o historico das transações feitas pelo cliente.
 
-# Paleta de cores em HEXCDECIMAL:
+# Paleta de cores em HEXADECIMAL:
     #400101
     #CF4526
     #612940
