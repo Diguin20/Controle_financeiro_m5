@@ -72,13 +72,3 @@
     # layouts
         pasta onde se encontra o HTML do arquivo main.
 
-
-
-# Paleta de cores em HEXCDECIMAL:
-    #400101
-    #CF4526
-    #612940
-    #DB7396
-    #D9C1D0
-    #DBC5BD
-    #EFE6EC
